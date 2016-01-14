@@ -1,0 +1,7 @@
+== README
+
+==========
+Мій останій проект, над яким я я зараз працюю (скоро запуск:)), добавив дамб тесстової бази, і забиті картинки у public/uploads, так вони зазвичай в моїх конфігах у gitignore.
+----------
+It's my last project. I am working with him right now (soon deadline). I added dumb.sql test dataabase, and pictures in public/uploads, but usualy  this data are ignoring in gitignore.
+==========
